@@ -1,5 +1,5 @@
 table {
-	width: 90%;
+	width: 100%;
 	min-width: 120px;
 	border-top: 1px solid #444444;
 	border-collapse: separate;
@@ -31,13 +31,13 @@ td {
 	border-bottom: 1px solid #000000;
 	padding: 10px;
 	text-align: center;
-	width: 32px;
-	table-layout: fixed;
+	/* table-layout: fixed; */
 }
 td.apoly {
 	border-bottom: 1px solid #000000;
     padding: 10px;
 	/* max-width: 75%; */
+	/* width: 75%; */
 	text-align: left;
 	/* overflow: hidden; */
 	/* text-overflow: ellipsis; */
